@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi,
+I'm Waseem, a Senior Full Stack Engineer with 8+ years of experience in crafting enterprise solutions across multiple domains. With a keen eye for detail and a passion for problem-solving, I excel in fast-paced environments and thrive on collaboration.
 
-<!--
-**waseemology/waseemology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Expertise:
 
-Here are some ideas to get you started:
+### Frontend: 
+JavaScript 💻, React ⚛️, Redux ⚖️, HTML5 📄, CSS3 💄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend: 
+Ruby 💎, Ruby on Rails 🚂, Python 🐍, Django 📚, Node.js 📊
+
+### DevOps & Cloud: 
+ AWS ☁️, Docker 📦, Heroku 🚀, GitHub Actions 🤖
+
+Let's connect and build something amazing together!"
